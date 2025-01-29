@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/MyContent/Fonctions.uasset"
+			]
+		}
+	]
+}
