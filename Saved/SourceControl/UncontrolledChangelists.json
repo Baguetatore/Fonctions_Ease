@@ -6,7 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/MyContent/Fonctions.uasset"
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/MyContent/Fonctions.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/MyContent/UI.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/MyContent/UI_score_chest.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/MyContent/MovingPlateforme.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JC/7OKK3A8XMZJF4FSAR2VZDD.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/E5/4KE218NHCO85C2SRT1XZ4Y.uasset",
+				"C:/Users/tom.paul/Documents/Unreal Projects/Fonctions/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/VB/5CX1VRYU258K5L27JDJFTQ.uasset"
 			]
 		}
 	]
